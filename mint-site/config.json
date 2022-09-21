@@ -1,20 +1,20 @@
 {
     "pinata": {
         "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-        "pinataPublicKey": "044dbb8c1176f8e44b83",
-        "pinataSecretKey": "94bd41caf7f4e4983de34991cb4a118d9384bd33843d4981b04d2cad7cdbed4a"
+        "pinataPublicKey": "d1890c46271aff01b151",
+        "pinataSecretKey": "7ae037bf14e2bff9217f9438047a9664139b4cfadf8af20a372711bb4f940602"
     },
     "candymachine": {
-        "cmPublicKey": "0x6a4841b7fab7f5da607bc581311453d79ac09d3735737e63258b075aca09dba0",
-        "cmPrivateKey": "0x7dab5516db550ebbcf90fd03eccd94649667ddcfb9f89f835aa953646bae17b9"
+        "cmPublicKey": "0xc94605a7ecf008b539915e9cef109ca62818a058f4b583cc7023b34f45677856",
+        "cmPrivateKey": "0x61bc75bc42336039b19e8895ed93d74682d46ba1e26434b4a92695e1b25c5cd9"
     },
     "collection": {
         "assetDir": "E:/TASK/active/aptos NFT minting project (freelancer)/Aptos-NFT-Minting-CM2/Assets/Images",
         "metadataDir": "E:/TASK/active/aptos NFT minting project (freelancer)/Aptos-NFT-Minting-CM2/Assets/metadata",
-        "collectionName": "AptosTejNFTv7",
-        "collectionDescription": "this is a test nft created by Andrei 21th Sep",
+        "collectionName": "Aptos-RB-Test-Mintv8",
+        "collectionDescription": "this is a test",
         "collectionCover": "https://cloudflare-ipfs.com/ipfs//QmeLKGuF4GCJURV3uE1MDs3N6XGggMmDp7HGXMp1dsucEt",
-        "collectionSize": 5,
+        "collectionSize": 10,
         "mintFee": 1e-05,
         "presaleMintTime": 1663521626,
         "publicMintTime": 1663621626,
