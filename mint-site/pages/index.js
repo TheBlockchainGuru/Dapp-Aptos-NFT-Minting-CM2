@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import React, { useEffect, useState } from 'react';
 import styles from '../styles/Home.module.css'
-import data from '../../script/src/config.json'
+import data from '../config.json'
 
 export default function Home() {
   const [sender, setSender] = useState(null)
@@ -66,7 +66,6 @@ export default function Home() {
           <div className={styles.topcorner}>
             <button className={styles.button} onClick={connectWallet}>{connenctButtonText}</button>
           </div>
-          <img src={coverImg} style={{ width: "480px", height:"480px" }} />
           <div>
             <button className={styles.button} onClick={mint} disabled={!isWalletConnected}>Mint</button>
           </div>
