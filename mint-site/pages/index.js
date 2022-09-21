@@ -43,6 +43,7 @@ export default function Home() {
     };
     const transaction = await window.martian.generateTransaction(sender, payload);
     const txnHash = await window.martian.signAndSubmitTransaction(transaction);
+    alert("token is minted successfully")
     console.log(txnHash);
   }
 
