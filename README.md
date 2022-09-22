@@ -14,10 +14,6 @@ An onchain contract which let user to create mint contract fast.
 * Integrated with all the marketplace and wallets on Aptos
 * Simple website with wallet integrated and monitor your candy machine status
 
-## Getting Set Up
-```sh
-git clone https://github.com/FTM-Labs/AptosNFTMint.git
-```
 
 ### Generate art and metadata
 
